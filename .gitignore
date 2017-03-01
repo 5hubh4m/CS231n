@@ -91,3 +91,6 @@ ENV/
 # macOS
 *.DS_Store
 *._*
+
+# vim
+*.*.swp
